@@ -1,0 +1,35 @@
+
+.custom-card {
+  background-color: #ffffff; /* Fondo de la tarjeta */
+  /* border: 1px solid #fff; Bordes cuadrados */
+}
+
+.custom-list-item {
+  background-color: #ffffff; /* Fondo del elemento de la lista */
+  border: 1px solid #ffffff; /* Bordes cuadrados */
+}
+
+/* Estilos para tareas completadas tachadas */
+.completed {
+  text-decoration: line-through;
+}
+
+.btn-group{
+  margin-bottom: 15px;
+  
+  color: #fff;
+}
+.container{
+background-color: #2be2a5;
+padding: 25px;
+border-radius: 4px;
+}
+.custom-input {
+  border: none;
+  background-color: transparent;
+  outline-color: transparent;
+}
+.btn-small {
+  font-size: 15px; /* Ajusta el tamaño de fuente a tu preferencia */
+  padding: 10px 15px; /* Ajusta el relleno (padding) a tu preferencia */
+}
